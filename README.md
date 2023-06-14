@@ -1,2 +1,2 @@
 # JID-Templates
-Advanced project building for JavaIDEdroid
+For advanced project building with JavaIDEdroid
